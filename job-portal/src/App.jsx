@@ -11,6 +11,7 @@ import JobListing from "./pages/jobListing";
 import MyJobs from "./pages/my-jobs";
 import SavedJobs from "./pages/saved-jobs";
 import JobPage from "./pages/job";
+import InterviewPrep from "./pages/interview-prep";
 
 import "./App.css";
 
@@ -67,6 +68,14 @@ const router = createBrowserRouter([
         element: (
           <ProtectedRoute>
             <JobPage />
+          </ProtectedRoute>
+        ),
+      },
+      {
+        path: "/interview-prep",
+        element: (
+          <ProtectedRoute>
+            <InterviewPrep />
           </ProtectedRoute>
         ),
       },
