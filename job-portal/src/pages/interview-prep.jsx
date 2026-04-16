@@ -57,10 +57,10 @@ const InterviewPrep = () => {
 
       <header className="mb-12 text-center">
         <h1 className="text-4xl font-extrabold mb-4 bg-gradient-to-r from-cyan-400 to-violet-500 bg-clip-text text-transparent">
-          Crush Your Interview
+          Know all the secrets of this project
         </h1>
         <p className="text-gray-400 text-lg">
-          A comprehensive guide of technical questions related to the Naukrify stack.
+          All insiders of this Project!
         </p>
       </header>
 
