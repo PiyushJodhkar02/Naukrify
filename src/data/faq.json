@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is Naukrify?",
+    "answer": "Naukrify is a job portal that connects job seekers with employers, helping users find jobs and companies hire talent easily."
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Sign up using your email or phone number, fill in your details, and verify your account to get started."
+  },
+  {
+    "question": "How can I search for jobs?",
+    "answer": "Use the search bar to find jobs by keywords, location, or category, and apply filters for better results."
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "Open a job listing, click 'Apply Now', upload your resume, and submit your application."
+  },
+  {
+    "question": "Can I save jobs for later?",
+    "answer": "Yes, you can save jobs using the 'Save Job' option and access them anytime from your profile."
+  },
+  {
+    "question": "How do employers post jobs?",
+    "answer": "Employers can log in, go to 'Post Job', fill in job details, and publish the listing."
+  }
+]
